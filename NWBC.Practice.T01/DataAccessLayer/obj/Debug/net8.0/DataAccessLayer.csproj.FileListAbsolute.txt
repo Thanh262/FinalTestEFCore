@@ -1,0 +1,17 @@
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\Common.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\DataLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\Common.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\bin\Debug\net8.0\DataLayer.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

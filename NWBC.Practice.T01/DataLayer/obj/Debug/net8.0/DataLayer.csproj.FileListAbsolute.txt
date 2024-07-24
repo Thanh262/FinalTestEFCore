@@ -1,0 +1,17 @@
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\DataLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\Common.dll
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\bin\Debug\net8.0\Common.pdb
+A:\Projects\netProjects\.netProjects\TestC#\NWBC.Practice.T01\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
